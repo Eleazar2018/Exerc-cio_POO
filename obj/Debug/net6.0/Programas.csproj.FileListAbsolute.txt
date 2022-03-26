@@ -1,0 +1,15 @@
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\bin\Debug\net6.0\Programas.exe
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\bin\Debug\net6.0\Programas.deps.json
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\bin\Debug\net6.0\Programas.runtimeconfig.json
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\bin\Debug\net6.0\Programas.dll
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\bin\Debug\net6.0\Programas.pdb
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\Programas.csproj.AssemblyReference.cache
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\Programas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\Programas.AssemblyInfoInputs.cache
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\Programas.AssemblyInfo.cs
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\Programas.csproj.CoreCompileInputs.cache
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\Programas.dll
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\refint\Programas.dll
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\Programas.pdb
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\Programas.genruntimeconfig.cache
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\Programas\obj\Debug\net6.0\ref\Programas.dll
